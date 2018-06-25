@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: 'font'; /*a name to be used later*/
+    src: url('https://fonts.google.com/specimen/Frank+Ruhl+Libre'); /*URL to font*/
+}
+.font {
+    font-family: 'font';
+}

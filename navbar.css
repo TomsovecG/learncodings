@@ -1,0 +1,30 @@
+/* CSS Document */
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #31989b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #07f4fc;
+  color: black;
+}
+.main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+a {
+  text-decoration: none;
+  color: #07f4fc;
+  size: 35;
+}
